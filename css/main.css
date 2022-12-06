@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: black;
+  background: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -95,3 +95,6 @@ h1 span:nth-child(9) {
   -webkit-animation-delay: 4s;
           animation-delay: 4s;
 }/*# sourceMappingURL=main.css.map */
+
+
+
